@@ -1,4 +1,4 @@
-# Để trang ngôn ngữ tiếng anh (gốc) Không nhấn dịch trang sang Tiếng Việt vì sẽ có nguy cơ lỗi
+# Để trang ngôn ngữ tiếng anh (gốc) Không nhấn dịch trang sang Tiếng Việt vì sẽ có nguy cơ bị lỗi
 
 
 ## Xem trước sau khi thiết lập hoàn tất...
