@@ -1,24 +1,10 @@
-# Thiết lập tập lệnh
-This Bash script contains Oh-My-Zsh With, command autosuggestion, syntax highlight plugins and terminal header with own name for TERMUX. 
+# Để trang ngôn ngữ tiếng anh (gốc) Không nhấn dịch trang sang Tiếng Việt thì sẽ có nguy cơ lỗi
+
+
 ## Xem trước sau khi thiết lập hoàn tất...
 <img src="https://raw.githubusercontent.com/TruongPixel/Img/main/IMG_20240825_134451.jpg" width="200" hight="220">
 
-## Tập lệnh này chứa các tính năng phổ biến
 
-- [x] oh-my-zsh themes
-- [x] zsh-autosuggest-command plugins
-- [x] zsh-syntax-highlighting plugins
-- [x] termux-banner
-- [x] PS1 with custom trim path indicator
-- [x] Custom prompt cursor
-- [x] other (git prompt)
-
-## Các tính năng của bàn phím Termux với các phím tắt
-
-- [x] open new session `CTRL + t`
-- [x] close terminal <sub><sub><img src="https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/keyboard/materialsymbolsoutlined/keyboard_20px.svg"></sub></sub> swipe up throughout that icon
-- [x] swich between two sessions `CTRL + 4` and `CTRL + 5`
-- [x] other shortcuts need video guide.
 
 ## Các bước tải xuống và cài đặt
 <img src="https://raw.githubusercontent.com/TruongPixel/Img/main/IMG_20240825_134522.jpg" width="200" hight="220">
