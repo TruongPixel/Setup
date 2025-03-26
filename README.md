@@ -18,7 +18,7 @@ apt update && yes | apt upgrade && apt update && apt install git -y
 ```
 cd /sdcard/download
 ```
-## 3.
+## 3. Nếu trong mục 'Download' đã có file 'Setup' trước đó thì bỏ qua bước này :>
 ```
 git clone https://github.com/truongpixel/Setup.git
 ```
